@@ -19,7 +19,7 @@ def configure_genai():
     Ensure the API key is set in the environment variables.
     """
     genai.configure(api_key=os.getenv(
-        'AIzaSyAPBQu6gK_tu2ydpwJi31kS7ttCgTGH0Ho'))
+        'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'))
 
 
 def initialize_model():
