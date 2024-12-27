@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pillow
+google-generativeai
+jinja2
+python-multipart
