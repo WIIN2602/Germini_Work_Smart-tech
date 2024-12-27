@@ -13,7 +13,7 @@ templates = Jinja2Templates(directory="templates")
 
 def configure_genai():
     genai.configure(api_key=os.getenv(
-        'AIzaSyAPBQu6gK_tu2ydpwJi31kS7ttCgTGH0Ho'))
+        'XXXXXXXXXXXXX'))
 
 
 def initialize_model():
